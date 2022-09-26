@@ -1,0 +1,9 @@
+body{
+    background-color: white;
+}
+
+/*imagem do perfil*/
+#perfil {
+    border-radius: 100;
+    max-width: 200px;
+}
